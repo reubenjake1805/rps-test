@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    background-color: #f0f0f0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#game-results{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
